@@ -1,0 +1,6 @@
+frame #1 : 4 [1080p]
+frame #2 : 4 [1080p]
+frame #3 : 4 [1080p]
+Total Power Consumed : 23837 / 23837 ! 23837
+Energy Saving is 0 %
+Total SSIM Value : 3

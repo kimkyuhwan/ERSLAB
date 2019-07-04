@@ -1,0 +1,7 @@
+frame #1 : 1 [360p]
+frame #2 : 0 [240p]
+frame #3 : 0 [240p]
+frame #4 : 0 [240p]
+Total Power Consumed : 16738 / 16940 ! 21175
+Energy Saving is 20.954 %
+Total SSIM Value : 2.97045

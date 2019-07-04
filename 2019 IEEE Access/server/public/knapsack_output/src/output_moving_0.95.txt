@@ -1,0 +1,10 @@
+frame #1 : 3 [720p]
+frame #2 : 3 [720p]
+frame #3 : 4 [1080p]
+frame #4 : 4 [1080p]
+frame #5 : 3 [720p]
+frame #6 : 4 [1080p]
+frame #7 : 0 [240p]
+Total Power Consumed : 45979 / 46012 ! 48434
+Energy Saving is 5.06875 %
+Total SSIM Value : 5.9813

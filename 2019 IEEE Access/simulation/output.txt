@@ -1,0 +1,306 @@
+=================================================
+Video 0 : motion
+ratio =85
+
+[BSA-H]
+SSIM VALUE is 12.863859
+ Average SSIM VALUE is 0.989528
+Power is 68655.513306
+Limit Power is 68691.137394
+[CBS]
+SSIM VALUE is 12.829861
+ Average SSIM VALUE is 0.986912
+Power is 68690.617797
+Limit Power is 68691.137394
+ratio =90
+
+[BSA-H]
+SSIM VALUE is 12.929765
+ Average SSIM VALUE is 0.994597
+Power is 72651.194092
+Limit Power is 72731.792535
+[CBS]
+SSIM VALUE is 12.844242
+ Average SSIM VALUE is 0.988019
+Power is 72630.519792
+Limit Power is 72731.792535
+ratio =95
+
+[BSA-H]
+SSIM VALUE is 12.961794
+ Average SSIM VALUE is 0.997061
+Power is 76602.404891
+Limit Power is 76772.447676
+[CBS]
+SSIM VALUE is 12.919857
+ Average SSIM VALUE is 0.993835
+Power is 76582.263076
+Limit Power is 76772.447676
+ratio =100
+
+[BSA-H]
+SSIM VALUE is 13.000000
+ Average SSIM VALUE is 1.000000
+Power is 80813.102817
+Limit Power is 80813.102817
+[CBS]
+SSIM VALUE is 13.000000
+ Average SSIM VALUE is 1.000000
+Power is 80813.102817
+Limit Power is 80813.102817
+=================================================
+=================================================
+Video 1 : dance
+ratio =85
+
+[BSA-H]
+SSIM VALUE is 8.640186
+ Average SSIM VALUE is 0.960021
+Power is 66074.068221
+Limit Power is 66158.687167
+[CBS]
+SSIM VALUE is 8.640186
+ Average SSIM VALUE is 0.960021
+Power is 66074.068221
+Limit Power is 66158.687167
+ratio =90
+
+[BSA-H]
+SSIM VALUE is 8.877915
+ Average SSIM VALUE is 0.986435
+Power is 69863.220215
+Limit Power is 70050.374647
+[CBS]
+SSIM VALUE is 8.875208
+ Average SSIM VALUE is 0.986134
+Power is 69896.815898
+Limit Power is 70050.374647
+ratio =95
+
+[BSA-H]
+SSIM VALUE is 8.946286
+ Average SSIM VALUE is 0.994032
+Power is 73927.563816
+Limit Power is 73942.062128
+[CBS]
+SSIM VALUE is 8.933244
+ Average SSIM VALUE is 0.992583
+Power is 73206.980484
+Limit Power is 73942.062128
+ratio =100
+
+[BSA-H]
+SSIM VALUE is 9.000000
+ Average SSIM VALUE is 1.000000
+Power is 77833.749608
+Limit Power is 77833.749608
+[CBS]
+SSIM VALUE is 9.000000
+ Average SSIM VALUE is 1.000000
+Power is 77833.749608
+Limit Power is 77833.749608
+=================================================
+=================================================
+Video 2 : moving
+ratio =85
+
+[BSA-H]
+SSIM VALUE is 12.821957
+ Average SSIM VALUE is 0.986304
+Power is 68925.989894
+Limit Power is 68981.847879
+[CBS]
+SSIM VALUE is 12.807260
+ Average SSIM VALUE is 0.985174
+Power is 68646.818279
+Limit Power is 68981.847879
+ratio =90
+
+[BSA-H]
+SSIM VALUE is 12.925755
+ Average SSIM VALUE is 0.994289
+Power is 72879.852743
+Limit Power is 73039.603637
+[CBS]
+SSIM VALUE is 12.912091
+ Average SSIM VALUE is 0.993238
+Power is 72691.175869
+Limit Power is 73039.603637
+ratio =95
+
+[BSA-H]
+SSIM VALUE is 12.968672
+ Average SSIM VALUE is 0.997590
+Power is 76273.519634
+Limit Power is 77097.359394
+[CBS]
+SSIM VALUE is 12.945234
+ Average SSIM VALUE is 0.995787
+Power is 76763.792126
+Limit Power is 77097.359394
+ratio =100
+
+[BSA-H]
+SSIM VALUE is 13.000000
+ Average SSIM VALUE is 1.000000
+Power is 81155.115152
+Limit Power is 81155.115152
+[CBS]
+SSIM VALUE is 13.000000
+ Average SSIM VALUE is 1.000000
+Power is 81155.115152
+Limit Power is 81155.115152
+=================================================
+=================================================
+Video 3 : hongkong
+ratio =85
+
+[BSA-H]
+SSIM VALUE is 11.609598
+ Average SSIM VALUE is 0.967467
+Power is 66613.784428
+Limit Power is 66619.253499
+[CBS]
+SSIM VALUE is 11.594049
+ Average SSIM VALUE is 0.966171
+Power is 66561.718066
+Limit Power is 66619.253499
+ratio =90
+
+[BSA-H]
+SSIM VALUE is 11.869009
+ Average SSIM VALUE is 0.989084
+Power is 70509.034097
+Limit Power is 70538.033117
+[CBS]
+SSIM VALUE is 11.848431
+ Average SSIM VALUE is 0.987369
+Power is 70211.769078
+Limit Power is 70538.033117
+ratio =95
+
+[BSA-H]
+SSIM VALUE is 11.949009
+ Average SSIM VALUE is 0.995751
+Power is 74372.808540
+Limit Power is 74456.812734
+[CBS]
+SSIM VALUE is 11.930257
+ Average SSIM VALUE is 0.994188
+Power is 73762.608414
+Limit Power is 74456.812734
+ratio =100
+
+[BSA-H]
+SSIM VALUE is 12.000000
+ Average SSIM VALUE is 1.000000
+Power is 78375.592352
+Limit Power is 78375.592352
+[CBS]
+SSIM VALUE is 12.000000
+ Average SSIM VALUE is 1.000000
+Power is 78375.592352
+Limit Power is 78375.592352
+=================================================
+=================================================
+Video 4 : walking
+ratio =85
+
+[BSA-H]
+SSIM VALUE is 11.930818
+ Average SSIM VALUE is 0.994235
+Power is 66506.443366
+Limit Power is 66555.628156
+[CBS]
+SSIM VALUE is 11.929489
+ Average SSIM VALUE is 0.994124
+Power is 66509.117062
+Limit Power is 66555.628156
+ratio =90
+
+[BSA-H]
+SSIM VALUE is 11.969270
+ Average SSIM VALUE is 0.997439
+Power is 70210.818026
+Limit Power is 70470.665106
+[CBS]
+SSIM VALUE is 11.962316
+ Average SSIM VALUE is 0.996860
+Power is 70165.816143
+Limit Power is 70470.665106
+ratio =95
+
+[BSA-H]
+SSIM VALUE is 11.982381
+ Average SSIM VALUE is 0.998532
+Power is 73797.101923
+Limit Power is 74385.702057
+[CBS]
+SSIM VALUE is 11.979211
+ Average SSIM VALUE is 0.998268
+Power is 73820.539997
+Limit Power is 74385.702057
+ratio =100
+
+[BSA-H]
+SSIM VALUE is 12.000000
+ Average SSIM VALUE is 1.000000
+Power is 78300.739007
+Limit Power is 78300.739007
+[CBS]
+SSIM VALUE is 12.000000
+ Average SSIM VALUE is 1.000000
+Power is 78300.739007
+Limit Power is 78300.739007
+=================================================
+=================================================
+Video 5 : football
+ratio =85
+
+[BSA-H]
+SSIM VALUE is 8.798853
+ Average SSIM VALUE is 0.977650
+Power is 66495.054691
+Limit Power is 66601.352177
+[CBS]
+SSIM VALUE is 8.776514
+ Average SSIM VALUE is 0.975168
+Power is 66499.654795
+Limit Power is 66601.352177
+ratio =90
+
+[BSA-H]
+SSIM VALUE is 8.942054
+ Average SSIM VALUE is 0.993562
+Power is 70231.643120
+Limit Power is 70519.078776
+[CBS]
+SSIM VALUE is 8.933997
+ Average SSIM VALUE is 0.992666
+Power is 70430.661954
+Limit Power is 70519.078776
+ratio =95
+
+[BSA-H]
+SSIM VALUE is 8.978697
+ Average SSIM VALUE is 0.997633
+Power is 74236.907310
+Limit Power is 74436.805374
+[CBS]
+SSIM VALUE is 8.970641
+ Average SSIM VALUE is 0.996738
+Power is 73796.214418
+Limit Power is 74436.805374
+ratio =100
+
+[BSA-H]
+SSIM VALUE is 9.000000
+ Average SSIM VALUE is 1.000000
+Power is 78354.531973
+Limit Power is 78354.531973
+[CBS]
+SSIM VALUE is 9.000000
+ Average SSIM VALUE is 1.000000
+Power is 78354.531973
+Limit Power is 78354.531973
+=================================================

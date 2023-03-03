@@ -12,7 +12,7 @@
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
     "jade": "^1.11.0",
-    "orientjs": "^2.2.5",
+    "orientjs": "^3.0.11",
     "robotjs": "^0.4.7"
   }
 }
